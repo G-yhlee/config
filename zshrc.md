@@ -1,3 +1,4 @@
+```zsh
 # If you come from bash you might have to change your $PATH.
 
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
@@ -200,3 +201,4 @@ setopt PROMPT_SUBST
 # %{ %} 이걸로 감싸야 자동완성이 깨지지 않는다
 
 export PROMPT='%{${COLOR_DIR}%}%1~ %{${COLOR_GIT}%}$(parse_git_branch)%{${COLOR_DEF}%} <%F{red}<%f '
+```
