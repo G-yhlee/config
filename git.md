@@ -1,4 +1,4 @@
-# 설정
+#### 설정
 
 ```md
 # code ~/.gitconfig
@@ -7,7 +7,7 @@
 - email
 ```
 
-# vscode 에서 git 동작시키기
+#### vscode 에서 git 동작시키기
 
 ```md
 git config --global core.editor "code --wait"
