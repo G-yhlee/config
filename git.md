@@ -18,7 +18,8 @@ https://dev.to/colbygarland/using-vs-code-to-git-rebase-1lc
 
 #### 로컬에서 .gitignore 하는 방법
 
-[참고링크](https://stackoverflow.com/questions/1753070/how-do-i-configure-git-to-ignore-some-files-locally)
+[방법1](https://stackoverflow.com/questions/1753070/how-do-i-configure-git-to-ignore-some-files-locally)
+[방법2](https://sebastiandedeyne.com/setting-up-a-global-gitignore-file/)
 
 ```hs
 # 방법 1 .git/info/exclude 파일에서 관리하기
@@ -35,8 +36,7 @@ code .git/info/exclude
 # 방법 2. 홈 디렉토리에 .gitignore 세팅
 
 -- 홈 디렉토리에서 내컴퓨터 전역에 .gitignore 되도록 할수 있다
--- 아직 해보진 않음
-
+방법2 링크 참조
 
 
 ```
