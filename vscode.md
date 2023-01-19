@@ -1,3 +1,16 @@
+#### vscode endofline 안걸리게 설정
+
+- [참고](https://stackoverflow.com/questions/44704968/visual-studio-code-insert-newline-at-the-end-of-files)
+
+```md
+1. vscode 세팅 접속 (단축키: 커맨드 , )
+   code -> Preferences -> Settings
+
+2. insert final newline 검색 => 체크
+```
+
+#### vscode 단축키 설정
+
 ```json
 // Place your key bindings in this file to override the defaults
 // extension :: cnt + shift + d
