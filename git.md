@@ -40,3 +40,10 @@ code .git/info/exclude
 
 
 ```
+
+#### git push 옵션들
+
+```js
+git push --force-with-lease // force 할때 옵션 주기
+git push origin --delete feature/TEST-860 // 원격브랜치 삭제
+```
